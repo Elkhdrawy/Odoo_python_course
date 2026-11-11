@@ -1,0 +1,6 @@
+Answer for question(2):
+-----------------------
+print('Print ("Me")')
+print("Print ('Me')")
+print('''Print ('Me")''')
+print('You will learn\na LOT')
